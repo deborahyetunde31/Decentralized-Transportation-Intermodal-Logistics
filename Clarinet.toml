@@ -5,10 +5,6 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
-[contracts.Decentralized-Transportation-Intermodal-Logistics]
-path = 'contracts/Decentralized-Transportation-Intermodal-Logistics.clar'
-clarity_version = 2
-epoch = 2.5
 
 [contracts.cost-optimization]
 path = 'contracts/cost-optimization.clar'
